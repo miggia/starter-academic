@@ -47,9 +47,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=ZYtAHxAAAAAJ
@@ -59,6 +59,12 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/alberto-parmiggiani-32a466137
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Alberto_Parmiggiani
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-1677-9381
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -88,4 +94,4 @@ There, I worked on the hardware of the iCub humanoid robot under the supervision
 After obtaining my PhD I served as the hardware lead of the iCub project as a PostDoc since 2010 and as a Techonologist since 2016.
 In August 2019 I became the coordinator of IIT's mechanical design and fabrication facility.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
