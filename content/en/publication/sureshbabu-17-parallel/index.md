@@ -1,43 +1,13 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: A parallel kinematic wrist for the R1 humanoid robot
-subtitle: ''
-summary: ''
-authors:
-- A. V. Sureshbabu
-- J. H. Chang
-- L. Fiorio
-- A. Scalzo
-- G. Metta
-- A. Parmiggiani
-tags:
-- '"parallel_robot"'
-- '"wrist_design"'
-categories: []
-date: '2017-07-01'
-lastmod: 2021-05-25T14:10:52+02:00
+title: "A parallel kinematic wrist for the R1 humanoid robot"
+date: 2017-07-01
+publishDate: 2021-05-26T13:14:54.956526Z
+authors: ["A. V. Sureshbabu", "J. H. Chang", "L. Fiorio", "A. Scalzo", "G. Metta", "A. Parmiggiani"]
+publication_types: ["1"]
+abstract: "This paper describes the conception, design, fabrication and testing of a wrist for a new humanoid robot. The wrist is comprised of a three degrees-of-freedom (DOF) parallel mechanism actuated by three motors. The wrist was made to be lightweight and cost-efficient. The design is optimized to fit within the forearm of the robot and is equipped with joint and calibration sensors. It was then tested for consistency in performance and positioning accuracy."
 featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-05-25T12:10:52.270745Z'
-publication_types:
-- '1'
-abstract: ''
-publication: '*IEEE/ASME Int. Conf. on Advanced Intelligent Mechatronics (AIM)*'
-doi: 10.1109/AIM.2017.8014184
+publication: "*IEEE/ASME Int. Conf. on Advanced Intelligent Mechatronics (AIM)*"
+tags: ["parallel_robot", "wrist_design"]
+doi: "10.1109/AIM.2017.8014184"
 ---
+

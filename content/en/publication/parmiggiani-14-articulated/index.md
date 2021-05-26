@@ -1,41 +1,12 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: An articulated talking face for the iCub
-subtitle: ''
-summary: ''
-authors:
-- A. Parmiggiani
-- M. Randazzo
-- M. Maggiali
-- F. Elisei
-- G. Bailly
-- G. Metta
-tags: []
-categories: []
-date: '2014-11-01'
-lastmod: 2021-05-25T14:10:48+02:00
+title: "An articulated talking face for the iCub"
+date: 2014-11-01
+publishDate: 2021-05-26T13:14:54.943560Z
+authors: ["A. Parmiggiani", "M. Randazzo", "M. Maggiali", "F. Elisei", "G. Bailly", "G. Metta"]
+publication_types: ["1"]
+abstract: "Recent developments in human-robot interaction show how the ability to communicate with people in a natural way is of great importance for artificial agents. The implementation of facial expressions has been found to significantly increase the interaction capabilities of humanoid robots. For speech, displaying a correct articulation with sound is mandatory to avoid audiovisual illusions like the McGurk effect (leading to comprehension errors) as well as to enhance the intelligibility in noise. This work describes the design, construction and testing of an animatronic talking face developed for the iCub robot. This talking head has an articulated jaw and four independent lip movements actuated by five motors. It is covered by a specially designed elastic tissue cover whose hemlines at the lips are attached to the motors via connecting linkages."
 featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-05-25T12:10:48.215646Z'
-publication_types:
-- '1'
-abstract: ''
-publication: '*IEEE-RAS Int. Conf. on Humanoid Robots (HUMANOIDS)*'
-doi: 10.1109/HUMANOIDS.2014.7041309
+publication: "*IEEE-RAS Int. Conf. on Humanoid Robots (HUMANOIDS)*"
+doi: "10.1109/HUMANOIDS.2014.7041309"
 ---
+

@@ -1,39 +1,12 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Robot hand design with linkage and push-pull cable transmission
-subtitle: ''
-summary: ''
-authors:
-- A. Billier
-- G. Stellin
-- G. Metta
-- A. Parmiggiani
-tags: []
-categories: []
-date: '2019-01-01'
-lastmod: 2021-05-25T14:10:42+02:00
+title: "Robot hand design with linkage and push-pull cable transmission"
+date: 2019-01-01
+publishDate: 2021-05-26T13:14:54.916632Z
+authors: ["A. Billier", "G. Stellin", "G. Metta", "A. Parmiggiani"]
+publication_types: ["1"]
+abstract: "This paper presents the architecture of a new hand for the robot iCub. This new hand consists of five fingers actuated by five motors. The thumb is actuated both in flexion and in abduction, the index and the middle finger are actuated independently, and finally, the ring and the little finger are actuated together. The architecture of the finger combines a linkage-based approach and a cable actuation. The hand uses a push-pull cable system; only one cable does both extension and flexion of a finger. Moreover, the cable is connected to the motor thanks to a helical link. This allows the transmission of higher forces."
 featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-05-25T12:10:42.084094Z'
-publication_types:
-- '1'
-abstract: ''
-publication: '*IEEE/ASME Int. Conf. on Advanced Intelligent Mechatronics (AIM)*'
-doi: 10.1109/AIM.2019.8868820
+publication: "*IEEE/ASME Int. Conf. on Advanced Intelligent Mechatronics (AIM)*"
+doi: "10.1109/AIM.2019.8868820"
 ---
+

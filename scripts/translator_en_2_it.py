@@ -15,6 +15,13 @@ def replace_line(filename, text_to_search, replacement_text):
             print(line.replace(text_to_search, replacement_text), end='')
 
 
+replace_line('../content/it/authors/admin/_index.md', 
+             'role: Facility Coordinator', 'role: Coordinatore di Facility')
+#projects:
+#- example
+
+
+
 try:
     shutil.rmtree('../content/it')
 except:
@@ -77,5 +84,6 @@ replace_line('../content/it/home/projects.md',
              'title: Projects', 'title: Progetti')
 replace_line('../content/it/home/projects.md', 
              'subtitle: ''', 'subtitle: (Inglese)')
+
 
 
