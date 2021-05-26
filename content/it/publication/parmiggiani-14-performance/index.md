@@ -1,37 +1,12 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: On the performance of actuators with harmonic drive speed reducers
-subtitle: ''
-summary: ''
-authors:
-- Alberto Parmiggiani
-- Marco Randazzo
-- Giorgio Metta
-tags: []
-categories: []
-date: '2014-01-01'
-lastmod: 2021-05-25T14:10:48+02:00
+title: "On the performance of actuators with harmonic drive speed reducers"
+date: 2014-01-01
+publishDate: 2021-05-26T14:11:13.774002Z
+authors: ["Alberto Parmiggiani", "Marco Randazzo", "Giorgio Metta"]
+publication_types: ["1"]
+abstract: "Harmonic Drives (HD) are commonly used in robotics because of zero-backlash and compactness. This makes them ideal for several mechatronic applications. Despite their wide use, there is no compelling literature on their performance, and to date it is not clear how they fare in a complete actuation setup. In this work we evaluate the joint structure we currently install on the iCub humanoid robot comprising an HD speed reducer showing that their efficiency is not optimal."
 featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-05-25T12:10:48.526270Z'
-publication_types:
-- '1'
-abstract: ''
-publication: '*Int. Conf. on New Actuators (ACTUATOR)*'
+publication: "*Int. Conf. on New Actuators (ACTUATOR)*"
+projects:
+- icub
 ---

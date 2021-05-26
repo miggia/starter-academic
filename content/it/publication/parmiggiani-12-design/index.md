@@ -1,47 +1,14 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: The design of the iCub humanoid robot
-subtitle: ''
-summary: ''
-authors:
-- Alberto Parmiggiani
-- Marco Maggiali
-- Lorenzo Natale
-- Francesco Nori
-- Alexander Schmitz
-- Nikos Tsagarakis
-- Joseé Santos Viktor
-- Francesco Becchi
-- Giulio Sandini
-- Giorgio Metta
-tags:
-- '"iCub"'
-- '"humanoids design"'
-categories: []
-date: '2012-01-01'
-lastmod: 2021-05-25T14:10:47+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-05-25T12:10:47.309073Z'
-publication_types:
-- '2'
-abstract: ''
-publication: '*International Journal of Humanoid Robotics*'
-doi: 10.1142/S0219843612500272
+title: "The design of the iCub humanoid robot"
+date: 2012-01-01
+publishDate: 2021-05-26T14:11:13.767020Z
+authors: ["Alberto Parmiggiani", "Marco Maggiali", "Lorenzo Natale", "Francesco Nori", "Alexander Schmitz", "Nikos Tsagarakis", "Joseé Santos Viktor", "Francesco Becchi", "Giulio Sandini", "Giorgio Metta"]
+publication_types: ["2"]
+abstract: "This article describes the hardware design of the iCub humanoid robot. The iCub is an open-source humanoid robotic platform designed explicitly to support research in embodied cognition. This paper covers the mechanical and electronic design of the first release of the robot. A series upgrades developed for the second version of the robot (iCub2), which are aimed at the improvement of the mechanical and sensing performance, are also described."
+featured: true
+publication: "*International Journal of Humanoid Robotics*"
+tags: ["iCub", "humanoids design"]
+doi: "10.1142/S0219843612500272"
+projects:
+- icub
 ---

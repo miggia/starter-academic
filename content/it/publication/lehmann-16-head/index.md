@@ -1,39 +1,13 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: Head and Face Design for a new Humanoid Service Robot
-subtitle: ''
-summary: ''
-authors:
-- Hagen Lehmann
-- Anand Vazhapilli Sureshbabu
-- Alberto Parmiggiani
-- Giorgio Metta
-tags: []
-categories: []
-date: '2016-01-01'
-lastmod: 2021-05-25T14:10:46+02:00
+title: "Head and Face Design for a new Humanoid Service Robot"
+date: 2016-01-01
+publishDate: 2021-05-26T14:11:13.758044Z
+authors: ["Hagen Lehmann", "Anand Vazhapilli Sureshbabu", "Alberto Parmiggiani", "Giorgio Metta"]
+publication_types: ["1"]
+abstract: "The design process of robotic faces as focal points of human-robot interactions plays a very important role in the construction of successful robot companions. The face of a robot represents an attentional anchor for the human user, and, if designed appropriately, enables a comfortable and intuitive communication. In this paper, we describe the user centered design process of the face display of a newly constructed humanoid robot companion called R1. We will introduce a novel solution for robotic face displays, illustrate our design decisions based on the results of an online survey, and present our final face design. We will discuss the lessons learned during the design process and argue that our solution and design will enable R1 to be a successful artificial interlocutor in different human-robot interaction scenarios."
 featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-05-25T12:10:46.075985Z'
-publication_types:
-- '1'
-abstract: ''
-publication: '*Int. Conf. on Social Robotics*'
-doi: 10.1007/978-3-319-47437-3_37
+publication: "*Int. Conf. on Social Robotics*"
+doi: "10.1007/978-3-319-47437-3_37"
+projects:
+- r1
 ---
