@@ -2,7 +2,10 @@
 title: R1
 summary: An affordable humanoid service robot
 tags:
-- Deep Learning
+- humanoid robot
+- robotics
+- mechatronics
+- parallel mechanisms
 date: "2015-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
