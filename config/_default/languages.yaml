@@ -8,6 +8,30 @@ en:
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
 
+it:
+  languageCode: it
+  contentDir: content/it
+  title: Alberto Parmiggiani
+  params:
+    description: Alberto Parmiggiani
+  menu:
+    main:
+      - name: Home
+        url: '#about'
+        weight: 10
+      - name: Post
+        url: '#posts'
+        weight: 20
+      - name: Progetti
+        url: '#projects'
+        weight: 30
+      - name: Pubblicazioni
+        url: '#featured'
+        weight: 40
+      - name: Contatti
+        url: '#contact'
+        weight: 60
+
 # Uncomment the lines below to configure your website in a second language.
 #zh:
 #  languageCode: zh-Hans
