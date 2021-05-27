@@ -1,6 +1,6 @@
 ---
 title: iCub
-summary: open-source humanoid robot
+summary: The open-source humanoid robot
 tags:
 - humanoid robot
 - robotics

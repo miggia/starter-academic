@@ -5,15 +5,19 @@ event: "ICRA 21 Workshop: Parallel robots or not parallel robots? New frontiers 
 event_url: https://icra2021pkm.sciencesconf.org/
 
 location: On-line
-# address:
-#   street: 450 Serra Mall
-#   city: Stanford
-#   region: CA
-#   postcode: '94305'
-#   country: United States
+address:
+  # street: 450 Serra Mall
+  # city: Stanford
+  # region: CA
+  # postcode: '94305'
+  # country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: "Our paper was recently accepted to the ICRA 21 Workshop: \"Parallel robots or not parallel robots? New frontiers of parallel robotics\". Divya will be presenting."
+abstract: "The manufacturing and assembly of small parallel robots are often complex because of the required tolerances and high part count.
+The present work considers the use of compliant mechanisms to overcome some of these difficulties.
+Taking as a reference a recently published two degrees of freedom parallel orientational mechanism, we address several aspects related to the design and manufacturing of this type of small-scale systems. 
+We consider two implementations of this mechanism, one developed following a \"traditional\" approach with linkages and pin joints, and one developed following a \"flexible\" approach using flexures.
+We then compare these two by providing qualitative and quantitative indications of their motion precision and capacity to withstand loads."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -59,13 +63,15 @@ slides: ''
 #   Otherwise, set `projects = []`.
 projects:
 - am-comp-mech
+
+profile: false  # Show author profile?
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
 
-<!-- Slides can be added in a few ways:
+Slides can be added in a few ways:
 
 - **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
