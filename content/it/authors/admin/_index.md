@@ -93,6 +93,4 @@ In IIT, ho lavorato allo sviluppo hardware del robot umanoide iCub con Lorenzo N
 Dopo aver conseguito il dottorato sono rimasto in IIT, dove ho assunto la guida dello sviluppo hardware del progetto iCub, come PostDoc a partire dal 2010 e come Tecnologo dal 2016.
 Nell'agosto del 2019 sono diventato il coordinatore della facility IIT per la progettazione e la costruzione di sistemi meccanici.
 
-<!--
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
--->
+<!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->

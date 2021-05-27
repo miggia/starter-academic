@@ -10,14 +10,14 @@ headless: true
 weight: 65
 
 title: Progetti
-subtitle: (Inglese)''
+subtitle: (Inglese)
 
 content:
   # Page type to display. E.g. project.
   page_type: project
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  filter_default: 0
+  #filter_default: 0
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.

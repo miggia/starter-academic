@@ -94,6 +94,4 @@ There, I worked on the hardware of the iCub humanoid robot under the supervision
 After obtaining my PhD I served as the hardware lead of the iCub project as a PostDoc since 2010 and as a Techonologist since 2016.
 In August 2019 I became the coordinator of IIT's mechanical design and fabrication facility.
 
-<!--
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
--->
+<!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->

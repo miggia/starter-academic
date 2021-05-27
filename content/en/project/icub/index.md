@@ -8,7 +8,7 @@ tags:
 date: "2007-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "www.icub.org"
+external_link: ""
 
 image:
   caption: the iCub humanoid robot
