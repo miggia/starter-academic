@@ -47,7 +47,7 @@ Questa pagina presenta una panoramica del mio lavoro degli ultimi anni.
 
 ### Breve Biografia
 
-Nel 2006 ho conseguito la Laurea Magistrale con lode in Ingegneria Meccanica presso l'Università degli Studi di Modena e Reggio Emilia.
+Nel 2006 ho conseguito la Laurea Magistrale con lode in Ingegneria Meccanica presso l'Universita' degli Studi di Modena e Reggio Emilia.
 Mi sono poi trasferito a Genova dove ho iniziato il dottorato di ricerca all'Istituto Italiano di Tecnologia (IIT).
 In IIT, ho lavorato allo sviluppo hardware del robot umanoide iCub con Lorenzo Natale, Giorgio Metta and Giulio Sandini.
 
@@ -75,6 +75,14 @@ replace_line('../content/it/home/projects.md',
              'title: Projects', 'title: Progetti')
 replace_line('../content/it/home/projects.md', 
              "subtitle: \'\'", 'subtitle: (Inglese)')
+replace_line('../content/it/home/talks.md', 
+             'title: \'Recent & Upcoming Talks\'', 'title: Prossimi Seminari e Seminari Recenti')
+replace_line('../content/it/home/talks.md', 
+             "subtitle: ", 'subtitle: (Inglese)')
+replace_line('../content/it/home/tags.md', 
+             'title: Tags', 'title: Tag')
+
+
 
 
 

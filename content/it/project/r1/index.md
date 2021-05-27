@@ -31,6 +31,8 @@ url_video: "https://www.youtube.com/watch?v=TBphNGW6m4o"
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ''
+
+profile: false  # Show author profile?
 ---
 
 The goal of the R1 project was to bring the technology developed in the iCub project one step closer to the market. This problem was addressed with a design-for-manufacturing approach, novel solutions for robot mechanisms, and by a wide use of polymeric materials.

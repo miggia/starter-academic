@@ -30,6 +30,8 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ''
+
+profile: false  # Show author profile?
 ---
 
 The iCub is a 53DOF open-source humanoid robot. Since 2007 In the years from 2007 to 2019 I have been heavily involved in the design and testing of several of its parts. Among these, the upper-body, the legs, the six-axis force-torque sensors, the covers, the legs, the hands and forearms, and the head. Since 2010, until September 2019 I have served the role of hardware lead of the project.
